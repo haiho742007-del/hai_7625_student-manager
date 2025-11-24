@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build
+bin/
+obj/
+
+# Backup
+*.bak
+
+# NuGet
+packages/
+
+# Cache
+*.cache
+*.pdb
+*.vshost.*
+
