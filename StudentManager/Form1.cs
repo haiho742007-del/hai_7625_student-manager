@@ -11,6 +11,7 @@ using System.Windows.Forms;
 namespace StudentManager
 // update student class
 // add search function
+// Validation: prevent empty student name
 
 
 {
