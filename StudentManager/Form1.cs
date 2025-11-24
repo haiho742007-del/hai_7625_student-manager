@@ -10,6 +10,8 @@ using System.Windows.Forms;
 
 namespace StudentManager
 // update student class
+// add search function
+
 
 {
     public partial class Form1 : Form
